@@ -1,0 +1,138 @@
+body{
+	color:#596171;
+	font-size: 18px;
+	font-family: 'Rubik', sans-serif;
+	margin: 0;
+	text-align: justify;
+}
+
+h1{
+	color: #353b47;
+	font-family: 'Palanquin Dark', sans-serif;
+	font-weight: 150;
+	font-style: normal;
+	margin-top: 40px;
+}
+
+h2{
+	color: #353b47;
+	font-family: 'Palanquin Dark', sans-serif;
+	font-weight: 30;
+	font-style: normal;
+}
+
+h3{
+	color: #353b47;
+	font-family: 'Palanquin Dark', sans-serif;
+	font-weight: 25;
+	font-style: normal;
+}
+
+h4{
+	margin: 0;
+}
+
+
+p{
+	color: #353b47;
+	margin:1em 0;
+}
+
+hr{
+	border:dotted #EAF6F6 1px;
+	border-bottom: none;
+	width: 1%;
+	margin:5px auto;
+}
+
+.header-fixed a {
+	color: #08c;
+	margin: 15px 26px; 
+	text-decoration: none;
+	background-color: transparent;
+	padding-top: 15.5px;
+	padding-bottom: 50px;
+}
+
+a:hover{
+		color: red;
+		top:50%;
+}
+.header-fixed {
+			position: fixed;
+			top: 0;
+   			left: 0;
+    		right: 0
+    		box-shadow: 0 2px 20px rgba(0,0,0,.09);
+			text-align: center;
+}
+
+.smartbar {
+		  display:block;
+		  background: #eb4b89;
+		  color: #fff;
+		  text-align: center;
+		  font-size: .9em;
+		 padding: 15px 18px;
+}
+
+.haut-de-page {
+    background-color: #e2e8eb;
+    position: relative;
+    padding-top: 40px;
+}
+
+.bas-de-page {
+    background-color: #61cc7f;
+    margin-bottom: 0;
+    padding: 14px 0 10px;
+    text-align: center;
+} 
+
+.bas-de-pagel {
+    background-color: #61cc7f;
+    margin-top: 20%;
+    margin-bottom: 0;
+    padding: 14px 0 10px;
+    text-align: center;
+}     
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.7rem;
+    padding: 8px 0;
+}
+
+.btn {
+    background-color: #11cdd4;
+    color: #FFFFFF;
+    border: none;
+    margin: 16px 0 !important;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 10px 20px 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+
+
+.form-group {
+    margin-bottom: 24px;
+}
+
+.milieu-login {
+	width: 50%;
+	height: 50%;
+	padding: 25px 25px;
+	border-radius: 10px;
+	margin: auto;
+}
+
+.milieu-form {
+	width: 50%;
+	height: 50%;
+	padding: 25px 25px;
+	border-radius: 10px;
+	margin: auto;
+}
